@@ -1,5 +1,3 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
-
 
 # Leonel Agustin Arce
 
@@ -19,3 +17,5 @@ En la actualidad ya aprobe 11 materias en los cuatro cuatrismetres que curse, y 
 * Me encanta el anime.
 * Me fascinan los Videojuegos, osea soy lo hoy llamado "Gamer".
 * Me gusta cocinar y hacer cosas dulces.
+
+![Logo UNAHUR](./assets/UNAHUR.png)
