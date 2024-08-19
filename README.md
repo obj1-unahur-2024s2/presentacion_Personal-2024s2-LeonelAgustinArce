@@ -3,8 +3,7 @@
 
 # Leonel Agustin Arce
 
-![MIFOTO](./assets/)
-
+![MIFOTO](./assets/Mifoto.png)
 
 Hola, me llamo leonel, tengo 21 años y actualmente estoy en mi segundo año de la tecnicatura en programación.
 
