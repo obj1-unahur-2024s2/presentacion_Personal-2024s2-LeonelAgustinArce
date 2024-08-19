@@ -17,3 +17,5 @@ En la actualidad ya aprobe 11 materias en los cuatro cuatrismetres que curse, y 
 * Desde los 9 años que hago deportes, y pase por muchas disciplinas como pueden ser: Kick boxing, Basquet, Atletismo, Handball.
 * Soy un aficionado por la peliculas de acción y ciencia ficción.
 * Me encanta el anime.
+* Me fascinan los Videojuegos, osea soy lo hoy llamado "Gamer".
+* Me gusta cocinar y hacer cosas dulces.
